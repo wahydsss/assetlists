@@ -6733,7 +6733,7 @@
       ]
     },
     {
-      "chain_name": "epix",
+      "chain_name": "epir",
       "base_denom": "aepix",
       "path": "transfer/channel-108456/aepix",
       "osmosis_verified": false,
